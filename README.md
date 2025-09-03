@@ -1,1 +1,1 @@
-Desafio Frontend Mentor. Criei uma pagina de receitas e personalizei da minha maneira.
+Desafio Frontend Mentor. Criei uma pagina de receita utilizando html e css, personalizei da minha maneira.
